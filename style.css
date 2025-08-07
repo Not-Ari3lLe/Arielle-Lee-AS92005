@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-     font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 .header{
     min-height: 100vh;
@@ -10,12 +10,6 @@
     background-position: center;
     background-size: cover;
     position: relative;
-}
-
-*{
- margin: 0;
- padding: 0;
- font-family: 'Poppins', sans-serif;
 }
 nav{
  display: flex;
@@ -48,7 +42,7 @@ nav img{
  background: #32a852;
  display: block;
  margin: auto;
- transition: 0.5s;
+transition: 0.5s;
 }
 .nav-links ul li:hover::after{
  width: 100%;
