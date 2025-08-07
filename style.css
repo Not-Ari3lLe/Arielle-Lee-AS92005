@@ -64,3 +64,21 @@ transition: 0.5s;
  font-size: 14px;
  color: #ffffff;
 }
+
+.two{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(image/forest.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.three{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(image/forest3.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
